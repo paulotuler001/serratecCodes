@@ -1,0 +1,15 @@
+quero que cada cargo tenha seus afazeres, mas seria um diferente do outro. Como eu defino os afazeres?
+
+quero que tenha um ponto, e que conforme o pessoal for batendo o ponto, eu pegasse essa informacao e colocasse em um bd, mas o atributo ponto tem que estar na classe estagiario?
+
+o ponto, eu faço um metodo para cada um? que ao apertar o botao, marcar a hora de inicio e talz, ou eu deixo como interface?
+
+tem 4 tipos de transacao, faço 4 metodos em cada tipo de conta ou eu deixo como 4 classes distintas? e ai eu teria q puxar cada uma delas (nao sei como)
+
+e na fila, quero q a pessoa que vem chegando, em ordem de chegada, vai pegando a senha, e vai sendo atendida... Faço uma classe ou um método ou uma interface? e a 
+interface eu botaria no pacote agencia 0188, que teria esse programa de fila. E as regras da fila, como o tempo de espera nao podendo ser mais do que 15 minutos e talz, 
+onde eu faço isso? dentro da classe mesmo?
+
+enum de acesso, conforme for progredindo o cargo, mais acesso vc tem... Eu boto um senhaAcesso++ conforme o cargo for aumentando? (a cada 3 anos)
+
+no pacote agencia, eu ponho o programa principal? junto com interfaces para fazer pix e transferencias? ou ponho separado
